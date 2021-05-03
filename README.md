@@ -3,4 +3,4 @@
 This is a virtual DJ table to create electro music. I used HTML5, SASS and Javascript.
 You can choose any sound, mute it, change the rithm and reset to start new music.
 
-##I hope you like it.
+## I hope you like it.
